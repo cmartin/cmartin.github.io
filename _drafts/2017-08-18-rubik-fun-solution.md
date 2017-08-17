@@ -77,13 +77,15 @@ NB2. some authors pretend that this middle layer can also be completed intuitive
 Here's the algorithm we'll use :
 **F R U R' U' F'**
 
-And here's how it works.
+And here's how it works :
+
+<img src = "/images/posts/cross.png" width=300>
 
 **a)** if the cross is already there, don't apply the algorithm
 
 **b)** if you have a yellow line (3 pieces together), turn the cube so that the line goes from left to right and apply the algorithm once and you're done
 
-**c)** if you have a yellow L, orient it as pictured above (TODO), apply the algorithm and then go back to step **b**
+**c)** if you have a yellow L, orient it as pictured above, apply the algorithm and then go back to step **b**
 
 **d)** if you don't have any of these configurations, apply the algorithm once and start back from **a**
 
