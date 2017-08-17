@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title:  "What is this about?"
 ---
 As some of you might be aware, I live with a constant urge to learn.
